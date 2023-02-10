@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning machine learning
 - 🤔 I’m looking for help with [Mount and Blade II: Bannerlord Coop Mod](https://github.com/Bannerlord-Coop-Team/BannerlordCoop)
 - 📫 How to reach me: [linkedin]
-- ⚡ Fun fact: I'm pretty good at Beatsaber
+- ⚡ Fun fact: I was pretty good at Beatsaber
 
 ### Connect with me:
 
